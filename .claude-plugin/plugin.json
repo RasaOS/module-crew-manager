@@ -1,0 +1,5 @@
+{
+  "name": "rasa-module-crew-manager",
+  "version": "0.1.0",
+  "description": "RasaOS Module · Crew Manager: the manager tier of a galt crew (galt ADR 0053): the conduct of a manager crew, the one session the person talks to, which plans across repos and runs a child lead crew in each; and the extra conduct a child lead reads."
+}
